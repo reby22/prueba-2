@@ -158,6 +158,7 @@ public class Main {
         group.printGroup();
         System.out.println();
         group2.printGroup();
+        System.out.println();
 
         /*
         System.out.println();
