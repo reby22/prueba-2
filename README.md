@@ -1,3 +1,3 @@
-![imagen jaja](C:\Users\sessh\Desktop\Tecnología Orientada a Objetos\programas de tarea\school\prueba.png)
+![imagen jaja](https://github.com/reby22/prueba-2/blob/master/prueba.png)
 
 
